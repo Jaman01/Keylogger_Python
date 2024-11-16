@@ -39,7 +39,7 @@
     **EMAIL_ADDRESS = "xxxxxx" #Remplacer par le "username" de Mailtrap**
     **EMAIL_PASSWORD = "xxxxxx" #Remplacer par le "password" de Mailtrap**
 
-![information sur le mail](images\infos_mail.png)
+![information sur le mail](images/infos_mail.png)
 
 
 
