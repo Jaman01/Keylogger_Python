@@ -52,7 +52,7 @@ m += message
 
 Ainsi, le port numero 25 est defini. 
 
-![information SMTP](images\smtp_screenshot.png)
+![information SMTP](images/smtp_screenshot.png)
 
 
 
@@ -109,10 +109,10 @@ Ainsi, le port numero 25 est defini.
 **Correspondances pillow et python : site internet : https://pillow.readthedocs.io/en/stable/installation/python-support.html**
 
 
-![information Ssur les compatibilites entre pillow et python](images\correspondances_versions_pillow_python.png)
+![information Ssur les compatibilites entre pillow et python](images/correspondances_versions_pillow_python.png)
 
 
-![information Ssur les compatibilites entre pillow et python](images\correspondances_versions_pillow_python1.png)
+![information Ssur les compatibilites entre pillow et python](images/correspondances_versions_pillow_python1.png)
 
 
 **Pour arreter le keylogger :**
